@@ -1,5 +1,5 @@
 body{
-    background-image: url("Photo/road_asphalt_marking_130996_300x188.jpg");
+    background-image: url("img/road_asphalt_marking_130996_300x188.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -14,75 +14,3 @@ h1{
     background-color: rgba(119, 65, 28, 0.993);
     /*padding: 20px 10px;*/
   }
-  
-  .header img{
-    height: 50px;
-    width: 50px;
-  }
-  
-  
-  /* Style the header links */
-  .header a {
-    float: left;
-    color: white;
-    text-align: center;
-    padding: 12px;
-    text-decoration: none;
-    font-size: 18px;
-    line-height: 25px;
-    border-radius: 4px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
-  }
-  
-  /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
-  .header a.logo {
-    font-size: 25px;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  /* Change the background color on mouse-over */
-  .header a:hover {
-    background-color: rgb(10, 5, 1);
-    color: White;
-  }
-  
-  .header a.active {
-    background-color: rgb(54, 54, 1);
-    color: white;
-  }
-  
-  /* Float the link section to the right */
-  .header-Right {
-    float: right;
-  }
-
-  .footer{
-    position:fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: rgb(28, 92, 9);
-    color: rgb(2, 32, 16);
-    text-align: center;
-  }
-  #content{
-    color: maroon;
-    text-align: justify;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 75px;
-  }
-  h1{
-    color: rgb(249, 249, 252);
-    text-decoration: solid;
-  }
-  h2{
-    color: rgb(243, 240, 236);
-    text-shadow:  2px 2px 4px rgba(22, 22, 22, 0.5); 
-    text-indent: 5ch;  
-}
-h3{
-    color: rgba(243, 240, 236, 0.685);
-    text-indent: 8ch;
-}
