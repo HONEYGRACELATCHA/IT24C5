@@ -47,4 +47,13 @@ h1 {
 .header a:hover {
     background-color: rgb(10, 5, 1);
     color: White;
-  }
+}
+
+.header a.active {
+    color: white;
+}
+
+/* Float the link section to the right */
+.header-Right {
+    float: right;
+}
