@@ -53,3 +53,8 @@ h1 {
 .header a.active {
     color: white;
 }
+
+/* Float the link section to the right */
+.header-Right {
+    float: right;
+}
