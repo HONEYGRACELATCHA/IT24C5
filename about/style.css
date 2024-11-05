@@ -11,3 +11,14 @@ h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 100px;
 }
+
+.header {
+    overflow: hidden;
+    background-color: rgb(130, 133, 129);
+    /*padding: 20px 10px;*/
+}
+
+.header img {
+    height: 50px;
+    width: 50px;
+}
