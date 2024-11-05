@@ -67,3 +67,22 @@ h1 {
     color: rgb(13, 151, 75);
     text-align: center;
 }
+
+#content {
+    color: maroon;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 75px;
+}
+
+h1 {
+    color: aliceblue;
+    text-shadow: 4px 4px 4px rgba(7, 7, 7, 0.815);
+
+}
+
+h2 {
+    color: antiquewhite;
+    text-shadow: 4px 4px 4px rgba(9, 9, 9, 0.815);
+
+}
