@@ -1,11 +1,23 @@
-body{
+body {
     background-image: url("img/nature.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
-h1{
+
+h1 {
     color: rgb(60, 179, 113), rgb(238, 238, 248);
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 100px;
+}
+
+.header {
+    overflow: hidden;
+    background-color: rgba(53, 19, 3, 0.541);
+    /*padding: 20px 10px;*/
+}
+
+.header img {
+    height: 50px;
+    width: 50px;
 }
