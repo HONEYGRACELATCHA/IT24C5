@@ -1,0 +1,12 @@
+body {
+    background-image: url("photo/lake-blue-moonlight-moon-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(60, 179, 113), blue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+}
