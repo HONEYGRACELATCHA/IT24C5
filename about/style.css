@@ -1,5 +1,5 @@
 body {
-    background-image: url("img/hhon.jpg");
+    
     background-color: rgb(122, 121, 121);
     background-repeat: no-repeat;
     background-size: cover;
@@ -79,7 +79,6 @@ h1 {
 
 .profile-image {
     text-align: center;
-    /* Center the image */
     margin-bottom: 20px;
 }
 
