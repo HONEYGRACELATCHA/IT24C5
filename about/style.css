@@ -58,6 +58,7 @@ h1 {
 .header-Right {
     float: right;
 }
+
 .footer {
     position: fixed;
     left: 0;
@@ -66,4 +67,11 @@ h1 {
     background-color: rgb(153, 245, 125);
     color: rgb(13, 151, 75);
     text-align: center;
+}
+
+#content {
+    color: maroon;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 75px;
 }
