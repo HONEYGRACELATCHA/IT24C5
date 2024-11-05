@@ -1,0 +1,13 @@
+body {
+    background-image: url("pictyur/538714.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(250, 250, 250), rgb(241, 241, 247);
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+}
