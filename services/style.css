@@ -54,3 +54,18 @@ h1 {
 .header a.active {
     color: white;
 }
+
+/* Float the link section to the right */
+.header-Right {
+    float: right;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(28, 92, 9);
+    color: rgb(2, 32, 16);
+    text-align: center;
+}
