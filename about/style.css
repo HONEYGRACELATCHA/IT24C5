@@ -1,5 +1,4 @@
 body {
-    background-image: url("pictyur/538714.webp");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -74,4 +73,18 @@ h1 {
     text-align: justify;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 75px;
+}
+
+.profile-image {
+    text-align: center;
+    /* Center the image */
+    margin-bottom: 20px;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #ddd;
 }
